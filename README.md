@@ -33,6 +33,7 @@
 - :trophy: `2022` Research article Publication related to Artificial Intelligence
 - :technologist: **Currently working on** `AI, Data Science, and Web Engineering`
 - :boom: You can visit [MY PORTFOLIO WEBSITE]() to know me more.
+- :technologist: **Open to Work** `and collaborate`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=abdulsaboor2&amp;color=EA4335&amp;style=flat-square)](mailto:absaboor019@gmail.com)
 - :nerd_face: Always believe `"The best is yet to come"`
 
