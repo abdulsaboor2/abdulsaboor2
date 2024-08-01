@@ -30,7 +30,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `MSc Software Engineering Student` at  [Regent College London (RCL), London, England, UK](https://www.rcl.ac.uk/)
-- :trophy: `2022` Research article Publication related to Artificial Intelligence
+- :trophy: `2022` Research article Publication on IEEE Explorer related to Artificial Intelligence
 - :technologist: **Currently working on** `AI, Data Science, and Web Engineering`
 - :boom: You can visit [MY PORTFOLIO WEBSITE]() to know me more.
 - :technologist: **Open to Work** `and collaborate`
