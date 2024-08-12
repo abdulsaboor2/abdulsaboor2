@@ -29,10 +29,10 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `MSc Software Engineering Student` at  [Regent College London (RCL), London, England, UK](https://www.rcl.ac.uk/)
+- :school: I am an `MSc Software Engineering Student` at  [Regent College London (RCL), London, England, UK](https://www.rcl.ac.uk/)
 - :trophy: `2022` Research article Publication on IEEE Explorer related to Artificial Intelligence
 - :technologist: **Currently working on** `AI, Data Science, and Web Engineering`
-- :boom: You can visit [MY PORTFOLIO WEBSITE]() to know me more.
+- :boom: You can visit [MY PORTFOLIO WEBSITE](https://webratsolutions.com/) to know me more.
 - :technologist: **Open to Work** `and collaborate`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=abdulsaboor2&amp;color=EA4335&amp;style=flat-square)](mailto:absaboor019@gmail.com)
 - :nerd_face: Always believe `"The best is yet to come"`
