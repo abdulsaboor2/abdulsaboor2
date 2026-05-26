@@ -24,3 +24,4 @@
 ✔ Frontend Engineering  
 ✔ Full-Stack JavaScript Development  
 ✔ Building Production-Ready Software
+✔ AI & Machine Learning
