@@ -21,7 +21,6 @@
 
 ✔ React.js Application Development  
 ✔ React Native Mobile Apps  
-✔ Frontend Engineering  
+✔ Building Production-Ready Software  
 ✔ Full-Stack JavaScript Development  
-✔ Building Production-Ready Software
 ✔ AI & Machine Learning
